@@ -4,7 +4,7 @@ a video calling website which uses agora video calling SDK. It includes the func
 Steps to make this application run on your local machine
 1. Generate Token :
    to gennerate the token :
-       step 1 > log in on https://console.agora.io/ \n
+       step 1 > log in on https://console.agora.io/  \
        step 2 > move to projects in agora's dashboard
        step 3 > if no project create new project with use case Social / Chatroom and save
        step 4 > make sure the Primary Certificate is enabled
